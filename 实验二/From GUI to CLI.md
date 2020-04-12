@@ -40,25 +40,25 @@ asciinema upload demo.cast
 ### 二、vimtutor操作
 
 Lesson1
-https://asciinema.org/a/7Rv2yMnRIOOmTgYD95XKSKIXp
+https://asciinema.org/a/318892
 
 Lesson2
-https://asciinema.org/a/SZlWq8BILoFhxLFYLlwtQBbVK
+https://asciinema.org/a/318889
 
 Lesson3
-https://asciinema.org/a/YNppp05uhfTLEoKUEgyG4C7zx
+https://asciinema.org/a/318891
 
 Lesson4
-https://asciinema.org/a/ywGu97eqB3BfCyfjOFbzohhCp
+https://asciinema.org/a/318893
 
 Lesson5
-https://asciinema.org/a/d56YY9xPM58gMK7xmZ4OVFxXM
+https://asciinema.org/a/318894
 
 Lesson6
-https://asciinema.org/a/MFzIjbyqtaOFvpsoCm61XH4aD
+https://asciinema.org/a/318895
 
 Lesson7
-https://asciinema.org/a/jS0OL7xp3I1oBBmHINP3VDAcz
+https://asciinema.org/a/318896
 
 ## VIMTUTOR完成后的自查清单
 
